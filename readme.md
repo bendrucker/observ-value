@@ -1,4 +1,4 @@
-# observ-value [![Build Status](https://travis-ci.org/bendrucker/observ-value.svg?branch=master)](https://travis-ci.org/bendrucker/observ-value)
+# observ-value [![Build Status](https://travis-ci.org/bendrucker/observ-value.svg?branch=master)](https://travis-ci.org/bendrucker/observ-value) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-value.svg)](https://greenkeeper.io/)
 
 > Get the value of an observable via a single interface
 
